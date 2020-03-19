@@ -4,11 +4,6 @@
   ],
   
   "questions": [
-        {"id": 1,
-        "category": "Entertainment: Film",
-        "difficulty": "easy",
-        "question": "Who directed the movies \"Pulp Fiction\", \"Reservoir Dogs\" and \"Django Unchained\"?",
-        "correctAnw": "Quentin Tarantino",
-        "incorrectAnw": ["Martin Scorcese","Steven Spielberg","James Cameron"]}      
+        {"id": 1, "category": "Entertainment: Film", "difficulty": "easy", "question": "Who directed the movies \"Pulp Fiction\", \"Reservoir Dogs\" and \"Django Unchained\"?", "correctAnw": "Quentin Tarantino", "incorrectAnw": ["Martin Scorcese","Steven Spielberg","James Cameron"]}      
   ]
 }
