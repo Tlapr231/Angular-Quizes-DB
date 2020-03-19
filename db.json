@@ -4,6 +4,6 @@
   ],
   "questions": [
     { "id": 1, "category": "Entertainment: Film", "difficulty": "easy", "question": "Who directed the movies Pulp Fiction, Reservoir Dogs and Django Unchained", "correctAnw": "Quentin Tarantino", "incorrectAnw": ["Martin Scorcese","Steven Spielberg","James Cameron"] },
-    { "id": 2, "category": "Entertainment: Film", "difficulty": "easy", "question": "The Queen song A Kind Of Magic is featured in which 1986 film?", "correctAnw": "Highlander", "incorrectAnw": ["Flash Gordon","Labyrinth","Howard the Duck"] },
+    { "id": 2, "category": "Entertainment: Film", "difficulty": "easy", "question": "The Queen song A Kind Of Magic is featured in which 1986 film?", "correctAnw": "Highlander", "incorrectAnw": ["Flash Gordon","Labyrinth","Howard the Duck"] }s
   ]
 }
