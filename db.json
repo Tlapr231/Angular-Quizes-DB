@@ -1,7 +1,7 @@
 {
   "quizes": [
     { "id": 1000, "numberOfQuestions": 10, "category": "Entertainment: Film", "difficulty": "mixed", "questions": [    
-      { "id": 1, "category": "Entertainment: Film", "difficulty": "easy", "question": "Who directed the movies 'Pulp Fiction', 'Reservoir Dogs' and 'Django Unchained'", "correctAnw": "Quentin Tarantino", "incorrectAnw": ["Martin Scorcese","Steven Spielberg","James Cameron"] },
+      { "id": 1, "category": "Entertainment: Film", "difficulty": "easy", "question": "Who directed the movies 'Pulp Fiction', 'Reservoir Dogs' and 'Django Unchained'?", "correctAnw": "Quentin Tarantino", "incorrectAnw": ["Martin Scorcese","Steven Spielberg","James Cameron"] },
       { "id": 2, "category": "Entertainment: Film", "difficulty": "easy", "question": "The Queen song 'A Kind Of Magic' is featured in which 1986 film?", "correctAnw": "Highlander", "incorrectAnw": ["Flash Gordon","Labyrinth","Howard the Duck"] },
       { "id": 3, "category": "Entertainment: Film", "difficulty": "easy", "question": "What was the title of the first 'Bond' movie, released in 1962?", "correctAnw": "Dr. No", "incorrectAnw": ["From Russia with Love","Goldfinger","Thunderball"] },
       { "id": 4, "category": "Entertainment: Film", "difficulty": "medium", "question": "This movie contains the quote, 'I love the smell of napalm in the morning!'", "correctAnw": "Apocalypse Now", "incorrectAnw": ["Platoon","The Deer Hunter","Full Metal Jacket"] },
@@ -14,7 +14,7 @@
     ] }
   ],
   "questions": [
-    { "id": 1, "category": "Entertainment: Film", "difficulty": "easy", "question": "Who directed the movies 'Pulp Fiction', 'Reservoir Dogs' and 'Django Unchained'", "correctAnw": "Quentin Tarantino", "incorrectAnw": ["Martin Scorcese","Steven Spielberg","James Cameron"] },
+    { "id": 1, "category": "Entertainment: Film", "difficulty": "easy", "question": "Who directed the movies 'Pulp Fiction', 'Reservoir Dogs' and 'Django Unchained'?", "correctAnw": "Quentin Tarantino", "incorrectAnw": ["Martin Scorcese","Steven Spielberg","James Cameron"] },
     { "id": 2, "category": "Entertainment: Film", "difficulty": "easy", "question": "The Queen song 'A Kind Of Magic' is featured in which 1986 film?", "correctAnw": "Highlander", "incorrectAnw": ["Flash Gordon","Labyrinth","Howard the Duck"] },
     { "id": 3, "category": "Entertainment: Film", "difficulty": "easy", "question": "What was the title of the first 'Bond' movie, released in 1962?", "correctAnw": "Dr. No", "incorrectAnw": ["From Russia with Love","Goldfinger","Thunderball"] },
     { "id": 4, "category": "Entertainment: Film", "difficulty": "medium", "question": "This movie contains the quote, 'I love the smell of napalm in the morning!'", "correctAnw": "Apocalypse Now", "incorrectAnw": ["Platoon","The Deer Hunter","Full Metal Jacket"] },
